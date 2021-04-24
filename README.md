@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypsterop" alt="hypsterop" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hypsterop" target="blank"><img src="https://img.shields.io/twitter/follow/hypsterop?logo=twitter&style=for-the-badge" alt="hypsterop" /></a> </p>
-
 - 🔭 I’m currently working on [Aneo](https://dsc.gg/aneo)
 
 - 🌱 I’m currently learning **JavaScript, Python , HTML**
@@ -23,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hypsterop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="hypsterop" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hypstergaming op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="hypstergaming op" height="30" width="40" /></a>
 <a href="https://discord.gg/JkeaDDd4zB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="JkeaDDd4zB" height="30" width="40" /></a>
 </p>
