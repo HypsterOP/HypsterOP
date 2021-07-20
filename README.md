@@ -4,7 +4,7 @@
     <h1 align="center" >My Profile!</h1>
     <br>
     <div align="left">
-   Hello there! I'm HypsterOP, I like gaming and a little programming. I'm a competitive game. Just finished my [Bot](https://github.com/hypsterop/AneoDc-Main-) I have a lot of experience with discord bots and gaming .
+   Hello there! I'm HypsterOP, I like gaming and a little programming. I'm a competitive gamer. Just finished my [Bot](https://github.com/hypsterop/AneoDc-Main-) I have a lot of experience with discord bots and gaming .
     </div>
   </p>
   
