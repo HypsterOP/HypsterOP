@@ -25,7 +25,7 @@
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
        <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
-       <a href="https://discord.com/users/710465231779790849">Discord: HypsterOP | not currently active on discord.</a>
+       <a href="https://discord.com/users/800331322089537538">Discord: HypsterOP | not currently active on discord.</a>
   <br>
     
 </details>
