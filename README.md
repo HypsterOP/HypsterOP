@@ -1,29 +1,35 @@
-<h1 align="center">Hi 👋, I'm HypsterOP</h1>
-<h3 align="center">A passionate frontend and backend developer from India!</h3>
+<div>
+  <p align="center">
+    <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
+    <h1 align="center" >My Profile!</h1>
+    <br>
+    <div align="left">
+   Hello there! I'm HypsterOP, I like gaming and a little programming. I'm a competitive game. Just finished my [Bot](https://github.com/hypsterop/AneoDc-Main-) I have a lot of experience with discord bots and gaming .
+    </div>
+  </p>
+  
+ 
+  </div>
 
-- 🔭 I’m currently working on [Aneo](https://dsc.gg/aneo)
-
-- 🌱 I’m currently learning **JavaScript, Python , HTML**
-
-- 👯 I’m looking to collaborate on [Aneo (Discord Bot)](https://dsc.gg/aneo)
-
-- 🤝 I’m looking for help with **Python**
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **indiangaming3000@gmail.com**
-
-- ⚡ Fun fact **I think i'm funny haha**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/hypstergamingop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="hypstergamingop" height="30" width="40" /></a>
-<a href="https://discord.gg/JkeaDDd4zB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="JkeaDDd4zB" height="30" width="40" /></a>
+<details style="cursor: pointer;" open>
+  <summary>Statistics</summary>
+<p align=center>
+<a href="https://github.com/HypsterOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HypsterOP&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypsterOP&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+</a>
 </p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypsterop&show_icons=true&locale=en&layout=compact" alt="hypsterop" /></p>
+<details style="cursor: pointer;">
+  <summary style="margin-bottom: 3px">Contact Me</summary>
+       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
+       <a href="https://discord.com/users/710465231779790849">Discord: HypsterOP | not currently active on discord.</a>
+  <br>
+    
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypsterop&" alt="hypsterop" /></p>
+
+<!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
+</div>
