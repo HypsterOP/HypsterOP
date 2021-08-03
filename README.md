@@ -1,35 +1,52 @@
-<div>
-  <p align="center">
-    <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
-    <h1 align="center" >My Profile!</h1>
-    <br>
-    <div align="left">
-   Hello there! I'm HypsterOP, I like gaming and a little programming. I'm a competitive gamer. Just finished my [Bot](https://github.com/hypsterop/AneoDc-Main-) I have a lot of experience with discord bots and gaming .
-    </div>
-  </p>
-  
- 
-  </div>
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I+am+HypsterOP;Welcome+to+my+github profile!&center=true&size=27">
+  </a>
+</h1>
 
-<details style="cursor: pointer;" open>
-  <summary>Statistics</summary>
-<p align=center>
-<a href="https://github.com/HypsterOP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HypsterOP&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypsterOP&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+<p align="center">
+  <img src="https://github.com/HypsterOP/HypsterOP-SVG/blob/main/mylogo.svg">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HypsterOP&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p>
+
+<h1 align="center"> Working on: </h1>
+<p align="center">
+  <a href="https://github.com/HypsterOP/AneoDc-Main-/README.md">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HypsterOP&repo=AneoDc-Main-&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
+</p>
+
+<h1 align="center"> Stats: </h1>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HypsterOP&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypsterOP&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+  <br>
+</p>
+
+<h1 align="center"> Contributions: </h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=HypsterOP&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=HypsterOP&theme=react-dark&hide_border=true">
+  </a>
+</p> 
+
+<h1 align="center"> Discord Status: </h1>
+<p align="center">
+<a href="https://discord.com/users/725968708358373477">
+  <img height="80px" src="https://discord.c99.nl/widget/theme-1/800331322089537538.png">
 </a>
 </p>
-</details>
-
-
-<details style="cursor: pointer;">
-  <summary style="margin-bottom: 3px">Contact Me</summary>
-       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
-       <a href="https://discord.com/users/800331322089537538">Discord: HypsterOP | not currently active on discord.</a>
-  <br>
-    
-</details>
-
-
-<!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
-</div>
